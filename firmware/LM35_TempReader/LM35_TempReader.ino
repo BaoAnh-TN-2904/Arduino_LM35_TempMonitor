@@ -1,21 +1,15 @@
-const int sensorPin = A0;
-
 void setup() {
   Serial.begin(9600);
 }
 
 void loop() {
-  int sensorValue = analogRead(sensorPin);
-  
-  // Chuyển đổi điện áp (5V / 1023)
-  float voltage = sensorValue * (5.0 / 1023.0);
-  
-  // LM35: 10mV = 1°C
-  float temperature = voltage * 100;
-
-  Serial.print("Temperature: ");
-  Serial.print(temperature);
-  Serial.println(" C");
+  // đọc 2 cảm biến A0 và A1
+  int valueA0 = analogRead(A0);  // đọc cảm biến 1
+  int valueA1 = analogRead(A1);  // đọc cảm biến 2
+// test git diff
+  Serial.print(valueA0);
+  Serial.print(",");
+  Serial.println(valueA1);
 
   delay(1000);
 }
