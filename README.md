@@ -38,6 +38,7 @@ Hướng dẫn sử dụng
 ---
 Cấu truc thư mục
 
+```
 Arduino_LM35_TempMonitor/
 │── firmware/
 │   └── LM35_TempReader/
@@ -47,6 +48,7 @@ Arduino_LM35_TempMonitor/
 │── pc_app/
 │── simulation/
 │── README.md
+```
 
 ---
 
