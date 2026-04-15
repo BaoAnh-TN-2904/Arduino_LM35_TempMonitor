@@ -52,12 +52,12 @@ Arduino_LM35_TempMonitor/
 
 ---
 
-## 👨‍💻 Thành viên nhóm
+ Thành viên nhóm
 -Trần Nguyễn Bảo Anh
 
 ---
 
-## 📌 Ghi chú
+ Ghi chú
 - Dữ liệu CSV giúp dễ dàng import vào Excel hoặc Python để phân tích  
 - Có thể mở rộng thêm cảm biến hoặc kết nối IoT trong tương lai  
 
