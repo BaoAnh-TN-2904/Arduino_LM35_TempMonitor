@@ -1,7 +1,7 @@
 void setup() {
   Serial.begin(9600);
 }
-
+// FINAL_TEST_DIFF
 void loop() {
   // đọc 2 cảm biến A0 và A1
   int valueA0 = analogRead(A0);  // đọc cảm biến 1
