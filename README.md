@@ -51,7 +51,7 @@ Hướng dẫn sử dụng
 ---
 
 ## 👨‍💻 Thành viên nhóm
--Tran Nguyen Bao 
+-Tran Nguyen Bao Anh
 
 ---
 
