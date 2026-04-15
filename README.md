@@ -36,22 +36,22 @@ Hướng dẫn sử dụng
 - Upload file `.ino`
  
 ---
+Cấu truc thư mục
 
-## 📁 Cấu trúc thư mục
- Arduino_LM35_TempMonitor/
- firmware/
- LM35_TempReader/
- LM35_TempReader.ino
- docs/
- libs/
- pc_app/
- simulation/
- README.md
+Arduino_LM35_TempMonitor/
+│── firmware/
+│   └── LM35_TempReader/
+│       └── LM35_TempReader.ino
+│── docs/
+│── libs/
+│── pc_app/
+│── simulation/
+│── README.md
 
 ---
 
 ## 👨‍💻 Thành viên nhóm
--Tran Nguyen Bao Anh
+-Trần Nguyễn Bảo Anh
 
 ---
 
